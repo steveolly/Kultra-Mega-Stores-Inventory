@@ -26,16 +26,38 @@ This is where I have the queries for my Case Scenario I
 
 ![Screenshot 2025-07-02 131848](https://github.com/user-attachments/assets/0ad1efba-7468-487f-ad4f-6a2043bb4b41)
 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+3. What were the total sales of appliances in Ontario?
 
+![Screenshot 2025-07-02 131907](https://github.com/user-attachments/assets/3b7a0a17-c8a4-40b6-800d-371c7efe5119)
 
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
 
+![Screenshot 2025-07-02 131925](https://github.com/user-attachments/assets/55e31e93-ea8b-47a6-851e-e249ace032a7)
+
+5. KMS incurred the most shipping cost using which shipping method?
+
+![Screenshot 2025-07-02 131945](https://github.com/user-attachments/assets/6a13fd8d-cc00-403d-b38c-98cc688fd158)
+
+6. Who are the most valuable customers, and what products or services do they typically purchase?
+
+![Screenshot 2025-07-02 132013](https://github.com/user-attachments/assets/2c85b6e5-33e1-4762-a78e-60879ca1d4a2)
+
+7. Which small business customer had the highest sales?
+
+![Screenshot 2025-07-02 132027](https://github.com/user-attachments/assets/b8a3c0f2-2b53-43c2-80d5-8f7bbc82d8f9)
+
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+
+![Screenshot 2025-07-02 132051](https://github.com/user-attachments/assets/2ae4684c-99dd-48e3-9904-2b13c2167935)
+
+9. Which consumer customer was the most profitable one?
+
+![Screenshot 2025-07-02 132118](https://github.com/user-attachments/assets/94733335-3185-45d6-b68a-b8db0a86abd7)
+
+10. Which customer returned items, and what segment do they belong to?
+
+![Screenshot 2025-07-02 132144](https://github.com/user-attachments/assets/8e178b38-f89e-47d5-a866-764b05c068ae)
+
+11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
+
+![Screenshot 2025-07-02 132159](https://github.com/user-attachments/assets/f0eb3b91-2dc9-4317-b025-1af7b4f10f55)
