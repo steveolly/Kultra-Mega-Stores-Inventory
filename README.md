@@ -17,7 +17,8 @@ The Primary source of Data used here is kms_Sql_Case_Study.csv and Order_Status.
 ### Data Analysis
 
 This is where I have the Analysis output for my Case Scenario I & II
-### Note: My Queries are unload in a document named kms_sql_project.sql. Thanks!!
+### Note: My Queries are uploaded in a document named kms_sql_project.sql. Thanks!!
+
 
 1. Which product category had the highest sales?
 
